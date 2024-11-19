@@ -1,5 +1,5 @@
 nome = "Paula Martins"
-mês = "Janeio"
+mês = "Janeiro"
 valor_compra = 5
 desconto = 10
 cupom = "PaulaÉ10"
